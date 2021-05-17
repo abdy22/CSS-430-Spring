@@ -6,6 +6,7 @@
 
      # Project 1 Shell program 
      # Project 2 Sudoku Validator  using pthreads  
-     # Project 3 scheduling algorithms 
+     # Project 3 scheduling algorithms
+                All files are in p3Zipped 
    
 
