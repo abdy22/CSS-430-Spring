@@ -1,12 +1,11 @@
 ## CSS 430 Spring 2021 
-    This repo contains projects from CSS 430 
+    This repo contains projects from CSS 430 Operating system 
+    All files are in C
 
    # Projects 
 
      # Project 1 Shell program 
-         simple shell program in C
-  
-    # Project 2 Sudoku Validator  using pthreads 
-         C program to validate a sodoku solution 
+     # Project 2 Sudoku Validator  using pthreads  
+     # Project 3 scheduling algorithms 
    
 
